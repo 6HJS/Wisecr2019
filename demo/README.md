@@ -1,1 +1,1 @@
-[![](./voideo.png)](https://youtu.be/-TVjAwA8RGI)
+[![](https://github.com/6HJS/Wisecr2019/blob/master/demo/video.png)](https://youtu.be/-TVjAwA8RGI)
