@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecuCodeApp", "SecuCodeApp\SecuCodeApp.csproj", "{909BB5FD-1778-4439-AE55-52672A0819B3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1} = {B6588614-B8EB-41E4-AA9E-A2762E36B8F1}
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF} = {29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TinyCrypt", "TinyCrypt\TinyCrypt.vcxproj", "{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Utils", "Utils\Utils.vcxproj", "{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|x64.ActiveCfg = Debug|x64
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|x64.Build.0 = Debug|x64
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Debug|x86.Build.0 = Debug|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|x64.ActiveCfg = Release|x64
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|x64.Build.0 = Release|x64
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|x86.ActiveCfg = Release|Any CPU
+		{909BB5FD-1778-4439-AE55-52672A0819B3}.Release|x86.Build.0 = Release|Any CPU
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Debug|x64.ActiveCfg = Debug|x64
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Debug|x64.Build.0 = Debug|x64
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Debug|x86.Build.0 = Debug|Win32
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Release|x64.ActiveCfg = Release|x64
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Release|x64.Build.0 = Release|x64
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Release|x86.ActiveCfg = Release|Win32
+		{29A7E0CD-21CB-4713-A93D-B8FEC9E586AF}.Release|x86.Build.0 = Release|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Debug|x64.ActiveCfg = Debug|x64
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Debug|x64.Build.0 = Debug|x64
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Debug|x86.Build.0 = Debug|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Release|x64.ActiveCfg = Release|x64
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Release|x64.Build.0 = Release|x64
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Release|x86.ActiveCfg = Release|Win32
+		{B6588614-B8EB-41E4-AA9E-A2762E36B8F1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BC6174A-70E4-4B87-A1CF-2E910AC3B274}
+	EndGlobalSection
+EndGlobal

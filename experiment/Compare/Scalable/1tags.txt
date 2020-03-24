@@ -1,0 +1,675 @@
+Scanning for tags
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.7959001
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 8.9145516
+
+Done: 2, Not done: 0, Missing: 3, attempts: 1
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.621923
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 7.7122181
+
+Done: 2, Not done: 0, Missing: 3, attempts: 1
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.6538539
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.9143727
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 15.7558634
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 7.0418691
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 9.1560163
+
+Done: 2, Not done: 0, Missing: 3, attempts: 1
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 7.395256
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.1434239
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 15.6563701
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.0676767
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.9647381
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 14.1688691
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.4752893
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 8.6218617
+
+Done: 2, Not done: 0, Missing: 3, attempts: 1
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.6223463
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.6150689
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 16.4354989
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.8046806
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.7203752
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 15.6769257
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.3607683
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.6480274
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 14.2440269
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.3320651
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.1505303
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 14.6109434
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 7.1162885
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.2957102
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 15.7056352
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.4815753
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 8.5739194
+
+Done: 2, Not done: 0, Missing: 3, attempts: 1
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.4651318
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.9889156
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 14.5814604
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+Scanning for tags
+
+AA00 -- Not done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.278714
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.8747865
+
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Scanning for tags
+
+AA00 -- Done
+0235 -- Missing
+0237 -- Missing
+0241 -- Missing
+0242 -- Done
+Firmware update complete: 14.3672846
+
+Done: 2, Not done: 0, Missing: 3, attempts: 2
+
+

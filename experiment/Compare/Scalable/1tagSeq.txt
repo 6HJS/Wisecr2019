@@ -1,0 +1,8 @@
+AA00: Restarted in bootloaderAA00: Sent session key
+AA00: Sent data
+AA00: Update time: 5.2221251
+
+AA00: Restarted in bootloader
+AA00: Sent session key
+AA00: Sent data
+AA00: Update time: 4.9283366

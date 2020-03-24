@@ -1,0 +1,1562 @@
+Scanning for tags
+AA00 read rate: 5 / s
+AA00 -- Not done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 10 / s
+0241 -- Not done
+0242 read rate: 9 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.1778877
+
+Scanning for tags
+
+AA00 read rate: 56 / s
+AA00 -- Not done
+0237 read rate: 8 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 16 / s
+0241 -- Not done
+0242 read rate: 8 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.8380889
+
+Scanning for tags
+
+AA00 read rate: 191 / s
+AA00 -- Done
+0237 read rate: 121 / s
+0237 -- Done
+0239 read rate: 34 / s
+0239 -- Not done
+0241 -- Missing
+0242 read rate: 102 / s
+0242 -- Done
+0239 Selected at pilot tag
+Pilot tag: 0239
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.6754488
+
+Scanning for tags
+
+AA00 read rate: 42 / s
+AA00 -- Done
+0237 read rate: 9 / s
+0237 -- Done
+0239 read rate: 10 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 20 / s
+0242 -- Done
+0241 Selected at pilot tag
+Pilot tag: 0241
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.9158474
+
+Scanning for tags
+
+AA00 read rate: 6 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Done
+0242 read rate: 1 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 10 / s
+AA00 -- Done
+0237 read rate: 14 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 3 / s
+0241 -- Done
+0242 read rate: 6 / s
+0242 -- Done
+Firmware update complete: 38.2076924
+
+Done: 5, Not done: 0, Missing: 0, attempts: 4
+
+Scanning for tags
+
+AA00 read rate: 12 / s
+AA00 -- Not done
+0237 read rate: 4 / s
+0237 -- Not done
+0239 read rate: 23 / s
+0239 -- Not done
+0241 read rate: 1 / s
+0241 -- Not done
+0242 read rate: 43 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.1496849
+
+Scanning for tags
+
+AA00 read rate: 14 / s
+AA00 -- Done
+0237 read rate: 13 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 2 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.1664898
+
+Scanning for tags
+
+AA00 read rate: 116 / s
+AA00 -- Done
+0237 read rate: 3 / s
+0237 -- Done
+0239 read rate: 13 / s
+0239 -- Done
+0241 read rate: 5 / s
+0241 -- Not done
+0242 read rate: 30 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Failed to send data: PowerFailure.
+Round duration: 7.7931768
+
+Scanning for tags
+
+AA00 read rate: 183 / s
+AA00 -- Done
+0237 read rate: 80 / s
+0237 -- Done
+0239 read rate: 85 / s
+0239 -- Done
+0241 -- Missing
+0242 -- Missing
+Scanning for tags
+
+AA00 read rate: 87 / s
+AA00 -- Done
+0237 read rate: 53 / s
+0237 -- Done
+0239 read rate: 76 / s
+0239 -- Done
+0241 -- Missing
+0242 -- Missing
+Firmware update complete: 36.0411359
+
+Done: 3, Not done: 0, Missing: 2, attempts: 3
+
+Scanning for tags
+
+AA00 read rate: 79 / s
+AA00 -- Not done
+0237 read rate: 68 / s
+0237 -- Not done
+0239 read rate: 79 / s
+0239 -- Not done
+0241 -- Missing
+0242 -- Missing
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.0674893
+
+Scanning for tags
+
+AA00 read rate: 5 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Failed to send data: PowerFailure.
+Round duration: 6.5413939
+
+Scanning for tags
+
+AA00 read rate: 149 / s
+AA00 -- Done
+0237 read rate: 53 / s
+0237 -- Done
+0239 read rate: 129 / s
+0239 -- Done
+0241 -- Missing
+0242 -- Missing
+Scanning for tags
+
+AA00 read rate: 277 / s
+AA00 -- Done
+0237 read rate: 79 / s
+0237 -- Done
+0239 read rate: 87 / s
+0239 -- Done
+0241 -- Missing
+0242 -- Missing
+Firmware update complete: 21.9267082
+
+Done: 3, Not done: 0, Missing: 2, attempts: 2
+
+Scanning for tags
+
+AA00 read rate: 247 / s
+AA00 -- Not done
+0237 read rate: 97 / s
+0237 -- Not done
+0239 read rate: 76 / s
+0239 -- Not done
+0241 -- Missing
+0242 -- Missing
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.781076
+
+Scanning for tags
+
+AA00 read rate: 6 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 7 / s
+0239 -- Done
+0241 read rate: 14 / s
+0241 -- Not done
+0242 read rate: 30 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 10.8019962
+
+Scanning for tags
+
+AA00 read rate: 252 / s
+AA00 -- Done
+0237 read rate: 56 / s
+0237 -- Done
+0239 read rate: 94 / s
+0239 -- Done
+0241 -- Missing
+0242 read rate: 97 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 83 / s
+AA00 -- Done
+0237 read rate: 61 / s
+0237 -- Done
+0239 read rate: 40 / s
+0239 -- Done
+0241 -- Missing
+0242 read rate: 84 / s
+0242 -- Done
+Firmware update complete: 27.1552986
+
+Done: 4, Not done: 0, Missing: 1, attempts: 2
+
+Scanning for tags
+
+AA00 read rate: 290 / s
+AA00 -- Not done
+0237 read rate: 53 / s
+0237 -- Not done
+0239 read rate: 72 / s
+0239 -- Not done
+0241 -- Missing
+0242 read rate: 79 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 16.4077638
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 5 / s
+0239 -- Done
+0241 read rate: 3 / s
+0241 -- Not done
+0242 read rate: 3 / s
+0242 -- Done
+0241 Selected at pilot tag
+Pilot tag: 0241
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.2559287
+
+Scanning for tags
+
+AA00 read rate: 2 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 5 / s
+0239 -- Done
+0241 read rate: 3 / s
+0241 -- Done
+0242 read rate: 3 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 29 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 5 / s
+0241 -- Done
+0242 read rate: 25 / s
+0242 -- Done
+Firmware update complete: 23.1134712
+
+Done: 5, Not done: 0, Missing: 0, attempts: 2
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Not done
+0237 read rate: 3 / s
+0237 -- Not done
+0239 read rate: 4 / s
+0239 -- Not done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 3 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 15.0639029
+
+Scanning for tags
+
+AA00 read rate: 15 / s
+AA00 -- Done
+0237 read rate: 8 / s
+0237 -- Not done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 18 / s
+0241 -- Not done
+0242 read rate: 50 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 10.2325087
+
+Scanning for tags
+
+AA00 read rate: 8 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 1 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Done
+0241 Selected at pilot tag
+Pilot tag: 0241
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.0548558
+
+Scanning for tags
+
+AA00 read rate: 4 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Done
+0242 read rate: 7 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 5 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Done
+0242 read rate: 5 / s
+0242 -- Done
+Firmware update complete: 31.2155234
+
+Done: 5, Not done: 0, Missing: 0, attempts: 3
+
+Scanning for tags
+
+AA00 read rate: 2 / s
+AA00 -- Not done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 3 / s
+0239 -- Not done
+0241 read rate: 4 / s
+0241 -- Not done
+0242 read rate: 8 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 14.8605975
+
+Scanning for tags
+
+AA00 read rate: 201 / s
+AA00 -- Done
+0237 -- Missing
+0239 read rate: 153 / s
+0239 -- Not done
+0241 read rate: 108 / s
+0241 -- Not done
+0242 -- Missing
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 8.5946147
+
+Scanning for tags
+
+AA00 read rate: 204 / s
+AA00 -- Done
+0237 -- Missing
+0239 read rate: 53 / s
+0239 -- Not done
+0241 -- Missing
+0242 read rate: 187 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.5703947
+
+Scanning for tags
+
+AA00 read rate: 145 / s
+AA00 -- Done
+0237 read rate: 33 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Not done
+0241 read rate: 21 / s
+0241 -- Not done
+0242 read rate: 10 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.7583026
+
+Scanning for tags
+
+AA00 read rate: 29 / s
+AA00 -- Done
+0237 read rate: 15 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 6 / s
+0241 -- Not done
+0242 read rate: 3 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.981492
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 3 / s
+0241 -- Done
+0242 read rate: 2 / s
+0242 -- Done
+Firmware update complete: 64.0844693
+
+Done: 4, Not done: 1, Missing: 0, attempts: 5
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Not done
+0237 read rate: 4 / s
+0237 -- Not done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 9 / s
+0241 -- Not done
+0242 read rate: 11 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 16.0308094
+
+Scanning for tags
+
+AA00 read rate: 28 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Not done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 29 / s
+0241 -- Done
+0242 read rate: 6 / s
+0242 -- Done
+0237 Selected at pilot tag
+Pilot tag: 0237
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.1914818
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 6 / s
+0241 -- Done
+0242 read rate: 4 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 14 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 8 / s
+0241 -- Done
+0242 read rate: 4 / s
+0242 -- Done
+Firmware update complete: 21.9350988
+
+Done: 5, Not done: 0, Missing: 0, attempts: 2
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Not done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 2 / s
+0239 -- Not done
+0241 read rate: 8 / s
+0241 -- Not done
+0242 read rate: 22 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.5661577
+
+Scanning for tags
+
+AA00 read rate: 2 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 4 / s
+0241 -- Not done
+0242 read rate: 4 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.6090541
+
+Scanning for tags
+
+AA00 read rate: 70 / s
+AA00 -- Done
+0237 read rate: 13 / s
+0237 -- Done
+0239 read rate: 7 / s
+0239 -- Not done
+0241 read rate: 15 / s
+0241 -- Not done
+0242 read rate: 4 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.6188561
+
+Scanning for tags
+
+AA00 read rate: 13 / s
+AA00 -- Done
+0237 read rate: 15 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Not done
+0241 read rate: 3 / s
+0241 -- Not done
+0242 read rate: 10 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 9.8802436
+
+Scanning for tags
+
+AA00 read rate: 27 / s
+AA00 -- Done
+0237 read rate: 8 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Not done
+0241 read rate: 21 / s
+0241 -- Not done
+0242 read rate: 17 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 9.0147801
+
+Scanning for tags
+
+AA00 read rate: 25 / s
+AA00 -- Done
+0237 read rate: 12 / s
+0237 -- Done
+0239 read rate: 16 / s
+0239 -- Not done
+0241 read rate: 3 / s
+0241 -- Done
+0242 read rate: 18 / s
+0242 -- Done
+Firmware update complete: 60.7365549
+
+Done: 4, Not done: 1, Missing: 0, attempts: 5
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Not done
+0237 read rate: 5 / s
+0237 -- Not done
+0239 read rate: 2 / s
+0239 -- Not done
+0241 read rate: 3 / s
+0241 -- Not done
+0242 read rate: 6 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.1391232
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Not done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 7 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 15.3100957
+
+Scanning for tags
+
+AA00 read rate: 2 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 1 / s
+0241 -- Done
+0242 read rate: 2 / s
+0242 -- Done
+0239 Selected at pilot tag
+Pilot tag: 0239
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.5285033
+
+Scanning for tags
+
+AA00 read rate: 5 / s
+AA00 -- Done
+0237 read rate: 3 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 5 / s
+0241 -- Done
+0242 read rate: 1 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 8 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 1 / s
+0241 -- Done
+0242 read rate: 10 / s
+0242 -- Done
+Firmware update complete: 33.6477045
+
+Done: 5, Not done: 0, Missing: 0, attempts: 3
+
+Scanning for tags
+
+AA00 read rate: 15 / s
+AA00 -- Not done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 3 / s
+0239 -- Not done
+0241 read rate: 1 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 - Failed to send session data: PowerFailure, 0B8F000000000DF6000A023700
+Sent session key to tags (1 failed)
+Sent data to pilot tag
+Round duration: 10.4943122
+
+Scanning for tags
+
+AA00 read rate: 6 / s
+AA00 -- Done
+0237 read rate: 7 / s
+0237 -- Not done
+0239 read rate: 1 / s
+0239 -- Not done
+0241 read rate: 17 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 13.0958253
+
+Scanning for tags
+
+AA00 read rate: 180 / s
+AA00 -- Done
+0237 read rate: 31 / s
+0237 -- Done
+0239 -- Missing
+0241 read rate: 84 / s
+0241 -- Not done
+0242 read rate: 94 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.7780179
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 4 / s
+0239 -- Done
+0241 read rate: 1 / s
+0241 -- Done
+0242 read rate: 18 / s
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.4635356
+
+Scanning for tags
+
+AA00 read rate: 9 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Done
+0242 read rate: 1 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Done
+0237 read rate: 3 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 4 / s
+0241 -- Done
+0242 read rate: 4 / s
+0242 -- Done
+Firmware update complete: 43.6616503
+
+Done: 5, Not done: 0, Missing: 0, attempts: 4
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Not done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 2 / s
+0239 -- Not done
+0241 read rate: 10 / s
+0241 -- Not done
+0242 read rate: 11 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 14.7704632
+
+Scanning for tags
+
+AA00 read rate: 169 / s
+AA00 -- Done
+0237 -- Missing
+0239 read rate: 70 / s
+0239 -- Done
+0241 read rate: 133 / s
+0241 -- Not done
+0242 -- Missing
+0241 Selected at pilot tag
+Pilot tag: 0241
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 6.1831842
+
+Scanning for tags
+
+AA00 read rate: 11 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 15 / s
+0239 -- Done
+0241 read rate: 23 / s
+0241 -- Done
+0242 read rate: 21 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 8.960951
+
+Scanning for tags
+
+AA00 read rate: 137 / s
+AA00 -- Done
+0237 read rate: 7 / s
+0237 -- Done
+0239 read rate: 10 / s
+0239 -- Done
+0241 read rate: 21 / s
+0241 -- Done
+0242 read rate: 7 / s
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.0993591
+
+Scanning for tags
+
+AA00 read rate: 10 / s
+AA00 -- Done
+0237 read rate: 7 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 3 / s
+0241 -- Done
+0242 read rate: 7 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 19 / s
+AA00 -- Done
+0237 read rate: 5 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 1 / s
+0241 -- Done
+0242 read rate: 5 / s
+0242 -- Done
+Firmware update complete: 36.3496942
+
+Done: 5, Not done: 0, Missing: 0, attempts: 4
+
+Scanning for tags
+
+AA00 read rate: 7 / s
+AA00 -- Not done
+0237 read rate: 2 / s
+0237 -- Not done
+0239 read rate: 3 / s
+0239 -- Not done
+0241 read rate: 9 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 15.8056857
+
+Scanning for tags
+
+AA00 read rate: 2 / s
+AA00 -- Done
+0237 read rate: 3 / s
+0237 -- Not done
+0239 read rate: 1 / s
+0239 -- Done
+0241 read rate: 5 / s
+0241 -- Not done
+0242 read rate: 8 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.7690009
+
+Scanning for tags
+
+AA00 read rate: 28 / s
+AA00 -- Done
+0237 read rate: 12 / s
+0237 -- Not done
+0239 read rate: 7 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 20 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.5866544
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Not done
+0239 read rate: 1 / s
+0239 -- Done
+0241 read rate: 4 / s
+0241 -- Not done
+0242 read rate: 2 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.7483216
+
+Scanning for tags
+
+AA00 read rate: 45 / s
+AA00 -- Done
+0237 read rate: 1 / s
+0237 -- Done
+0239 read rate: 12 / s
+0239 -- Done
+0241 read rate: 5 / s
+0241 -- Done
+0242 read rate: 16 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Done
+0237 read rate: 4 / s
+0237 -- Done
+0239 read rate: 5 / s
+0239 -- Done
+0241 read rate: 8 / s
+0241 -- Done
+0242 read rate: 3 / s
+0242 -- Done
+Firmware update complete: 53.1367865
+
+Done: 5, Not done: 0, Missing: 0, attempts: 4
+
+Scanning for tags
+
+AA00 read rate: 1 / s
+AA00 -- Not done
+0237 read rate: 6 / s
+0237 -- Not done
+0239 read rate: 3 / s
+0239 -- Not done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 4 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 17.7217635
+
+Scanning for tags
+
+AA00 read rate: 18 / s
+AA00 -- Done
+0237 read rate: 8 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 4 / s
+0241 -- Not done
+0242 read rate: 5 / s
+0242 -- Done
+0241 Selected at pilot tag
+Pilot tag: 0241
+0241 restarted in bootloader
+0241 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 5.9089542
+
+Scanning for tags
+
+AA00 read rate: 11 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 2 / s
+0239 -- Done
+0241 read rate: 10 / s
+0241 -- Done
+0242 read rate: 10 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 5 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Done
+0241 read rate: 2 / s
+0241 -- Done
+0242 read rate: 2 / s
+0242 -- Done
+Firmware update complete: 24.446526
+
+Done: 5, Not done: 0, Missing: 0, attempts: 2
+
+Scanning for tags
+
+AA00 read rate: 6 / s
+AA00 -- Not done
+0237 read rate: 2 / s
+0237 -- Not done
+0239 read rate: 2 / s
+0239 -- Not done
+0241 read rate: 6 / s
+0241 -- Not done
+0242 read rate: 2 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0237 restarted in bootloader
+0237 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 11.7565627
+
+Scanning for tags
+
+AA00 read rate: 55 / s
+AA00 -- Done
+0237 read rate: 45 / s
+0237 -- Not done
+0239 read rate: 20 / s
+0239 -- Not done
+0241 -- Missing
+0242 read rate: 67 / s
+0242 -- Not done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0239 restarted in bootloader
+0239 sent session key
+0242 restarted in bootloader
+0242 sent session key
+0237 restarted in bootloader
+0237 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.953981
+
+Scanning for tags
+
+AA00 read rate: 86 / s
+AA00 -- Done
+0237 read rate: 77 / s
+0237 -- Done
+0239 -- Missing
+0241 -- Missing
+0242 read rate: 58 / s
+0242 -- Not done
+0242 Selected at pilot tag
+Pilot tag: 0242
+0242 restarted in bootloader
+0242 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 4.1954859
+
+Scanning for tags
+
+AA00 read rate: 3 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 3 / s
+0239 -- Not done
+0241 read rate: 2 / s
+0241 -- Not done
+0242 read rate: 6 / s
+0242 -- Done
+AA00 Selected at pilot tag
+Pilot tag: AA00
+AA00 restarted in bootloader
+AA00 sent session key
+0241 restarted in bootloader
+0241 sent session key
+0239 restarted in bootloader
+0239 sent session key
+Sent session key to tags (0 failed)
+Sent data to pilot tag
+Round duration: 12.167699
+
+Scanning for tags
+
+AA00 read rate: 15 / s
+AA00 -- Done
+0237 read rate: 8 / s
+0237 -- Done
+0239 read rate: 1 / s
+0239 -- Done
+0241 read rate: 1 / s
+0241 -- Done
+0242 read rate: 27 / s
+0242 -- Done
+Scanning for tags
+
+AA00 read rate: 25 / s
+AA00 -- Done
+0237 read rate: 2 / s
+0237 -- Done
+0239 read rate: 10 / s
+0239 -- Done
+0241 read rate: 12 / s
+0241 -- Done
+0242 read rate: 10 / s
+0242 -- Done
+Firmware update complete: 44.0868435
+
+Done: 5, Not done: 0, Missing: 0, attempts: 4
+
+

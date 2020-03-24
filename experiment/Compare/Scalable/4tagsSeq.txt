@@ -1,0 +1,52 @@
+AA00: Restarted in bootloaderAA00: Sent session key
+AA00: Sent data
+AA00: Update time: 4.6484439
+
+0235: Restarted in bootloader
+0235: Sent session key
+0235: Sent data
+0235: Update time: 9.2165312
+
+0237: Restarted in bootloader
+0237: Sent session key
+0237: Sent data
+0237: Update time: 4.545925
+
+0241: Restarted in bootloader
+0241: Sent session key
+0241: Sent data
+0241: Update time: 5.5313134
+
+0242: Restarted in bootloader
+0242: Sent session key
+0242: Sent data
+0242: Update time: 4.7584807
+
+
+
+
+
+AA00: Restarted in bootloaderAA00: Sent session key
+AA00: Sent data
+AA00: Update time: 5.1667868
+
+0235: Restarted in bootloader
+0235: Sent session key
+0235: Sent data
+0235: Update time: 7.0609355
+
+0237: Restarted in bootloader
+0237: Sent session key
+0237: Sent data
+0237: Update time: 5.8170158
+
+0241: Restarted in bootloader
+0241: Sent session key
+0241: Sent data
+0241: Update time: 4.9168835
+
+0242: Restarted in bootloader
+0242: Sent session key
+0242: Sent data
+0242: Update time: 4.1257981
+

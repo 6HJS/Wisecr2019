@@ -1,0 +1,588 @@
+<2019-10-22 11:52:04,287> log level: INFO
+<2019-10-22 11:52:04,288> selected recommended Tari of 7140 for WISP5
+<2019-10-22 11:52:04,677> IOTXTreplace: Initializing
+<2019-10-22 11:52:05,241> connecting...
+<2019-10-22 11:52:05,259> will reset reader state on connect
+<2019-10-22 11:52:05,260> will start inventory on connect
+<2019-10-22 11:52:05,261> using antennas: (1,)
+<2019-10-22 11:52:05,262> connected to ('169.254.18.118', 5084)
+<2019-10-22 11:52:05,769> requested modulation: WISP5
+<2019-10-22 11:52:05,770> Could not find reader mode matching modulation=WISP5 and Tari=7140
+<2019-10-22 11:52:05,771> using reader mode: {'C': 0, 'MaxTari': 6250, 'M': 2, 'PIE': 1500, 'StepTari': 0, 'R': 1, 'FLM': 2, 'MinTari': 6250, 'ModeIdentifier': 0, 'BDR': 640000, 'Mod': 0}
+<2019-10-22 11:52:05,779> stopping politely
+<2019-10-22 11:52:05,803> reader finished inventory
+<2019-10-22 11:52:05,803> starting inventory
+<2019-10-22 11:52:05,851> IOTXTreplace: Connection established
+<2019-10-22 11:53:06,110> IOTXTreplace: sending gotobios to wisps: 0242 and 0237 and 0241 and 0239
+<2019-10-22 11:53:06,111> Configuring AccessSpecFactory for wispID: 0242 (hex: B)
+<2019-10-22 11:53:06,112> sending 2 opspecs
+<2019-10-22 11:53:06,112> Configuring AccessSpecFactory for wispID: 0237 (hex: 7)
+<2019-10-22 11:53:06,113> sending 2 opspecs
+<2019-10-22 11:53:06,113> Configuring AccessSpecFactory for wispID: 0241 (hex: A)
+<2019-10-22 11:53:06,114> sending 2 opspecs
+<2019-10-22 11:53:06,115> Configuring AccessSpecFactory for wispID: 0239 (hex: 9)
+<2019-10-22 11:53:06,116> sending 2 opspecs
+<2019-10-22 11:53:06,181> Enabling access spec: 1
+<2019-10-22 11:53:06,182> Enabling access spec: 2
+<2019-10-22 11:53:06,182> Enabling access spec: 3
+<2019-10-22 11:53:06,183> Enabling access spec: 4
+<2019-10-22 11:53:06,322> IOTXTreplace: 0237 wisp is in bios
+<2019-10-22 11:53:06,345> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:06,417> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:06,426> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:06,820> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:06,955> sending 2 opspecs
+<2019-10-22 11:53:06,982> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:06,992> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,026> Enabling access spec: 4
+<2019-10-22 11:53:07,113> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,155> sending 2 opspecs
+<2019-10-22 11:53:07,180> Enabling access spec: 3
+<2019-10-22 11:53:07,327> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,357> sending 2 opspecs
+<2019-10-22 11:53:07,381> Enabling access spec: 3
+<2019-10-22 11:53:07,527> IOTXTreplace: 0239 wisp is in bios
+<2019-10-22 11:53:07,537> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,546> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,556> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,840> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,933> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,942> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:07,967> sending 2 opspecs
+<2019-10-22 11:53:07,968> sending 2 opspecs
+<2019-10-22 11:53:07,978> IOTXTreplace: 0242 wisp is in bios
+<2019-10-22 11:53:08,059> Enabling access spec: 1
+<2019-10-22 11:53:08,060> Enabling access spec: 3
+<2019-10-22 11:53:08,550> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2019-10-22 11:53:08,562> IOTXTreplace: 0241 wisp is in bios
+<2019-10-22 11:53:08,573> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:08,583> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:08,644> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:08,864> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:08,976> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 2, 'OpSpecID': 2}
+<2019-10-22 11:53:09,076> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2019-10-22 11:53:09,088> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2019-10-22 11:53:09,464> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:17,810> IOTXTreplace: Reprogramming data from "ihex/secucode-demo_399B.hex" to wisps: 0242 and 0237 and 0241 and 0239
+<2019-10-22 11:53:17,812> Configuring AccessSpecFactory for wispID: 0242 (hex: B)
+<2019-10-22 11:53:17,812> Configuring AccessSpecFactory for wispID: 0237 (hex: 7)
+<2019-10-22 11:53:17,813> Configuring AccessSpecFactory for wispID: 0241 (hex: A)
+<2019-10-22 11:53:17,813> Configuring AccessSpecFactory for wispID: 0239 (hex: 9)
+<2019-10-22 11:53:17,931> 0242: *****************************************
+<2019-10-22 11:53:17,932> 0242: * Wisp to program:                 0242 *
+<2019-10-22 11:53:17,933> 0242: * Words to send:        193 in  2 lines *
+<2019-10-22 11:53:17,933> 0242: *****************************************
+<2019-10-22 11:53:17,934> 0242: Wisp is now in state: WAITING
+<2019-10-22 11:53:18,041> 0242: * File to load:                    None *
+<2019-10-22 11:53:18,042> 0242: * I WILL BE SNIFFED                 *
+<2019-10-22 11:53:18,043> 0242: *****************************************
+<2019-10-22 11:53:18,125> 0237: *****************************************
+<2019-10-22 11:53:18,126> 0237: * Wisp to program:                 0237 *
+<2019-10-22 11:53:18,126> 0237: * Words to send:        193 in  2 lines *
+<2019-10-22 11:53:18,127> 0237: *****************************************
+<2019-10-22 11:53:18,128> 0237: Wisp is now in state: WAITING
+<2019-10-22 11:53:18,178> 0237: * File to load:                    None *
+<2019-10-22 11:53:18,180> 0237: * I AM A SNIFFER                    *
+<2019-10-22 11:53:18,181> 0237: *****************************************
+<2019-10-22 11:53:18,258> 0241: *****************************************
+<2019-10-22 11:53:18,259> 0241: * Wisp to program:                 0241 *
+<2019-10-22 11:53:18,260> 0241: * Words to send:        193 in  2 lines *
+<2019-10-22 11:53:18,260> 0241: *****************************************
+<2019-10-22 11:53:18,261> 0241: Wisp is now in state: WAITING
+<2019-10-22 11:53:18,311> 0241: * File to load:                    None *
+<2019-10-22 11:53:18,312> 0241: * I AM A SNIFFER                    *
+<2019-10-22 11:53:18,315> 0241: *****************************************
+<2019-10-22 11:53:18,390> 0239: *****************************************
+<2019-10-22 11:53:18,390> 0239: * Wisp to program:                 0239 *
+<2019-10-22 11:53:18,391> 0239: * Words to send:        193 in  2 lines *
+<2019-10-22 11:53:18,391> 0239: *****************************************
+<2019-10-22 11:53:18,393> 0239: Wisp is now in state: WAITING
+<2019-10-22 11:53:18,450> 0239: * File to load:                    None *
+<2019-10-22 11:53:18,451> 0239: * I AM A SNIFFER                    *
+<2019-10-22 11:53:18,452> 0239: *****************************************
+<2019-10-22 11:53:18,452> 0242: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.586 secs
+<2019-10-22 11:53:18,453> 0242: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.587 secs
+<2019-10-22 11:53:18,454> 0242: Wisp is now in state: WAIT4SNIFFERS
+<2019-10-22 11:53:18,461> Waiting for wisp: 0239
+<2019-10-22 11:53:18,461> 0239: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.145 secs
+<2019-10-22 11:53:18,462> 0239: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.146 secs
+<2019-10-22 11:53:18,463> 0239: Wisp is now in state: GOTOSNIF
+<2019-10-22 11:53:18,470> sending 2 opspecs
+<2019-10-22 11:53:18,470> 0241: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.288 secs
+<2019-10-22 11:53:18,471> 0241: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.288 secs
+<2019-10-22 11:53:18,471> 0241: Wisp is now in state: GOTOSNIF
+<2019-10-22 11:53:18,477> sending 2 opspecs
+<2019-10-22 11:53:18,478> 0237: Wisp was in state: WAITING and is going to the next state --- Time elapsed: 0.434 secs
+<2019-10-22 11:53:18,478> 0237: Wisp was in state: GOTOBIOS and is going to the next state --- Time elapsed: 0.435 secs
+<2019-10-22 11:53:18,479> 0237: Wisp is now in state: GOTOSNIF
+<2019-10-22 11:53:18,487> sending 2 opspecs
+<2019-10-22 11:53:18,723> sending 2 opspecs
+<2019-10-22 11:53:18,724> sending 2 opspecs
+<2019-10-22 11:53:18,725> sending 2 opspecs
+<2019-10-22 11:53:18,926> Enabling access spec: 8
+<2019-10-22 11:53:18,927> Enabling access spec: 7
+<2019-10-22 11:53:18,928> Enabling access spec: 6
+<2019-10-22 11:53:18,929> Enabling access spec: 8
+<2019-10-22 11:53:18,930> Enabling access spec: 7
+<2019-10-22 11:53:18,930> Enabling access spec: 6
+<2019-10-22 11:53:19,020> sending 2 opspecs
+<2019-10-22 11:53:19,021> sending 2 opspecs
+<2019-10-22 11:53:19,022> sending 2 opspecs
+<2019-10-22 11:53:19,166> Enabling access spec: 8
+<2019-10-22 11:53:19,166> Enabling access spec: 7
+<2019-10-22 11:53:19,167> Enabling access spec: 6
+<2019-10-22 11:53:19,234> sending 2 opspecs
+<2019-10-22 11:53:19,235> sending 2 opspecs
+<2019-10-22 11:53:19,270> Enabling access spec: 7
+<2019-10-22 11:53:19,271> Enabling access spec: 6
+<2019-10-22 11:53:19,326> 0237: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.282 secs
+<2019-10-22 11:53:19,327> 0237: Wisp is now in state: SNIFFING
+<2019-10-22 11:53:19,332> Waiting for wisp: 0239
+<2019-10-22 11:53:19,423> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:19,436> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:19,469> sending 2 opspecs
+<2019-10-22 11:53:19,507> Enabling access spec: 8
+<2019-10-22 11:53:19,617> 0239: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 1.301 secs
+<2019-10-22 11:53:19,618> 0239: Wisp is now in state: SNIFFING
+<2019-10-22 11:53:19,622> Waiting for wisp: 0241
+<2019-10-22 11:53:19,632> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:19,879> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:19,892> sending 2 opspecs
+<2019-10-22 11:53:19,920> Enabling access spec: 7
+<2019-10-22 11:53:20,334> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:20,940> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:20,950> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:21,094> sending 2 opspecs
+<2019-10-22 11:53:21,104> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:21,129> Enabling access spec: 7
+<2019-10-22 11:53:21,296> sending 2 opspecs
+<2019-10-22 11:53:21,321> Enabling access spec: 7
+<2019-10-22 11:53:21,624> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:21,697> sending 2 opspecs
+<2019-10-22 11:53:21,721> Enabling access spec: 7
+<2019-10-22 11:53:22,032> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:22,099> sending 2 opspecs
+<2019-10-22 11:53:22,122> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:22,157> Enabling access spec: 7
+<2019-10-22 11:53:22,300> sending 2 opspecs
+<2019-10-22 11:53:22,341> Enabling access spec: 7
+<2019-10-22 11:53:23,000> 0241: Wisp was in state: GOTOSNIF and is going to the next state --- Time elapsed: 4.817 secs
+<2019-10-22 11:53:23,001> 0241: Wisp is now in state: SNIFFING
+<2019-10-22 11:53:23,006> 0242: Wisp was in state: WAIT4SNIFFERS and is going to the next state --- Time elapsed: 5.140 secs
+<2019-10-22 11:53:23,007> 0242: Wisp is now in state: PROGRAMMING
+<2019-10-22 11:53:23,012> sending 4 opspecs
+<2019-10-22 11:53:23,013> 0242: First reprogramming messages send --- Stork time elapsed: 0.002 secs
+<2019-10-22 11:53:23,089> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:23,098> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:23,136> Enabling access spec: 5
+<2019-10-22 11:53:23,256> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 32, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '1e5d44040000', 'Result': 0, 'OpSpecID': 2}, 3: {'NumWordsWritten': 28, 'Result': 0, 'OpSpecID': 3}, 4: {'ReadDataWordCount': 3, 'ReadData': '1a6ba1cc0000', 'Result': 0, 'OpSpecID': 4}}[1;0m
+<2019-10-22 11:53:23,258> sending 2 opspecs
+<2019-10-22 11:53:23,335> Enabling access spec: 5
+<2019-10-22 11:53:23,741> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:23,759> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:23,959> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:24,161> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:24,362> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:24,445> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:24,445> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:24,564> sending 2 opspecs
+<2019-10-22 11:53:24,592> Enabling access spec: 5
+<2019-10-22 11:53:25,065> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:25,197> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 26, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '182744400000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:25,199> sending 2 opspecs
+<2019-10-22 11:53:25,244> Enabling access spec: 5
+<2019-10-22 11:53:25,313> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:25,314> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:25,704> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:25,708> sending 2 opspecs
+<2019-10-22 11:53:25,735> Enabling access spec: 5
+<2019-10-22 11:53:25,801> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:25,885> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:25,886> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 2, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:25,992> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:26,093> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:26,209> sending 2 opspecs
+<2019-10-22 11:53:26,236> Enabling access spec: 5
+<2019-10-22 11:53:26,676> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 14, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '0c9344700000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:26,678> sending 2 opspecs
+<2019-10-22 11:53:26,721> Enabling access spec: 5
+<2019-10-22 11:53:27,178> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:27,379> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:27,464> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:27,465> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:27,601> sending 2 opspecs
+<2019-10-22 11:53:27,640> Enabling access spec: 5
+<2019-10-22 11:53:27,857> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:27,858> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:27,966> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:28,103> sending 2 opspecs
+<2019-10-22 11:53:28,134> Enabling access spec: 5
+<2019-10-22 11:53:28,653> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:28,863> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:29,005> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:29,006> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:29,064> sending 2 opspecs
+<2019-10-22 11:53:29,101> Enabling access spec: 5
+<2019-10-22 11:53:29,308> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '030544880000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:29,310> sending 2 opspecs
+<2019-10-22 11:53:29,360> Enabling access spec: 5
+<2019-10-22 11:53:29,815> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:29,816> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:29,834> sending 2 opspecs
+<2019-10-22 11:53:29,865> Enabling access spec: 5
+<2019-10-22 11:53:30,150> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02fa448e0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:30,152> sending 2 opspecs
+<2019-10-22 11:53:30,200> Enabling access spec: 5
+<2019-10-22 11:53:30,545> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:30,546> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:30,654> sending 2 opspecs
+<2019-10-22 11:53:30,684> Enabling access spec: 5
+<2019-10-22 11:53:31,155> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:31,357> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:31,559> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:31,761> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:31,962> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:32,011> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:32,012> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:32,110> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:32,164> sending 2 opspecs
+<2019-10-22 11:53:32,243> Enabling access spec: 5
+<2019-10-22 11:53:32,478> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02fc44920000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:32,479> sending 2 opspecs
+<2019-10-22 11:53:32,538> Enabling access spec: 5
+<2019-10-22 11:53:32,585> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:32,925> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '036b44960000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:32,928> sending 2 opspecs
+<2019-10-22 11:53:33,018> Enabling access spec: 5
+<2019-10-22 11:53:33,248> BAD OpSpecResult={'NumWordsWritten': 4, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:33,249> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:33,429> sending 2 opspecs
+<2019-10-22 11:53:33,464> Enabling access spec: 5
+<2019-10-22 11:53:33,607> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '0272449c0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:33,609> sending 2 opspecs
+<2019-10-22 11:53:33,661> Enabling access spec: 5
+<2019-10-22 11:53:33,896> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:33,897> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:34,008> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:34,100> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:34,111> sending 2 opspecs
+<2019-10-22 11:53:34,146> Enabling access spec: 5
+<2019-10-22 11:53:34,319> BAD OpSpecResult={'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:34,320> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 3, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:34,612> sending 2 opspecs
+<2019-10-22 11:53:34,670> Enabling access spec: 5
+<2019-10-22 11:53:34,907> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02b644a00000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:34,909> sending 2 opspecs
+<2019-10-22 11:53:34,955> Enabling access spec: 5
+<2019-10-22 11:53:35,010> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '03e544a40000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:35,011> sending 2 opspecs
+<2019-10-22 11:53:35,036> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:35,070> Enabling access spec: 5
+<2019-10-22 11:53:35,123> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:35,512> sending 2 opspecs
+<2019-10-22 11:53:35,547> Enabling access spec: 5
+<2019-10-22 11:53:36,013> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:36,214> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:36,305> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02ac44aa0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:36,307> sending 2 opspecs
+<2019-10-22 11:53:36,326> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:36,357> Enabling access spec: 5
+<2019-10-22 11:53:36,808> sending 2 opspecs
+<2019-10-22 11:53:36,841> Enabling access spec: 5
+<2019-10-22 11:53:37,071> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02e144ae0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:37,072> sending 2 opspecs
+<2019-10-22 11:53:37,126> Enabling access spec: 5
+<2019-10-22 11:53:37,574> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:37,775> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:37,977> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:38,139> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '034944b20000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:38,141> sending 2 opspecs
+<2019-10-22 11:53:38,219> Enabling access spec: 5
+<2019-10-22 11:53:38,641> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:38,862> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:39,063> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:39,265> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:39,318> BAD OpSpecResult={'NumWordsWritten': 5, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:39,319> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:39,467> sending 2 opspecs
+<2019-10-22 11:53:39,494> Enabling access spec: 5
+<2019-10-22 11:53:39,606> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '029a44b80000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:39,608> sending 2 opspecs
+<2019-10-22 11:53:39,632> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:39,674> Enabling access spec: 5
+<2019-10-22 11:53:40,109> sending 2 opspecs
+<2019-10-22 11:53:40,134> Enabling access spec: 5
+<2019-10-22 11:53:40,395> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02a344bc0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:40,397> sending 2 opspecs
+<2019-10-22 11:53:40,441> Enabling access spec: 5
+<2019-10-22 11:53:40,897> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '038e44c00000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:40,899> sending 2 opspecs
+<2019-10-22 11:53:40,950> Enabling access spec: 5
+<2019-10-22 11:53:41,401> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 6, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '047844c60000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:41,403> sending 2 opspecs
+<2019-10-22 11:53:41,456> Enabling access spec: 5
+<2019-10-22 11:53:41,588> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 7, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': 'ea4100000000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:41,686> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:41,927> sending 2 opspecs
+<2019-10-22 11:53:41,956> Enabling access spec: 5
+<2019-10-22 11:53:41,988> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:42,429> sending 2 opspecs
+<2019-10-22 11:53:42,472> Enabling access spec: 5
+<2019-10-22 11:53:42,841> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '025244ce0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:42,843> sending 2 opspecs
+<2019-10-22 11:53:42,895> Enabling access spec: 5
+<2019-10-22 11:53:43,345> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:43,427> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '03b944d20000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:43,429> sending 2 opspecs
+<2019-10-22 11:53:43,550> Enabling access spec: 5
+<2019-10-22 11:53:43,930> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:44,131> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:44,332> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:44,548> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:44,749> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:44,951> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:45,152> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:45,353> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:45,555> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:45,756> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:45,958> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:46,127> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:46,128> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:46,159> sending 2 opspecs
+<2019-10-22 11:53:46,186> Enabling access spec: 5
+<2019-10-22 11:53:46,269> BAD OpSpecResult={'NumWordsWritten': 2, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:46,270> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 2, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:46,373> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:46,480> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:46,668> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:46,672> sending 2 opspecs
+<2019-10-22 11:53:46,698> Enabling access spec: 5
+<2019-10-22 11:53:46,966> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '029a44d80000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:46,968> sending 2 opspecs
+<2019-10-22 11:53:47,012> Enabling access spec: 5
+<2019-10-22 11:53:47,469> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:47,671> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:47,833> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '035344dc0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:47,835> sending 2 opspecs
+<2019-10-22 11:53:47,881> Enabling access spec: 5
+<2019-10-22 11:53:48,241> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 6, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '045844e20000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:48,243> sending 2 opspecs
+<2019-10-22 11:53:48,396> Enabling access spec: 5
+<2019-10-22 11:53:48,757> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:48,959> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:49,160> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:49,299> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:49,300> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:49,375> sending 2 opspecs
+<2019-10-22 11:53:49,439> Enabling access spec: 5
+<2019-10-22 11:53:49,610> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '036344ea0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:49,612> sending 2 opspecs
+<2019-10-22 11:53:49,687> Enabling access spec: 5
+<2019-10-22 11:53:49,723> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:50,111> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 6, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '04da44f00000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:50,112> sending 2 opspecs
+<2019-10-22 11:53:50,154> Enabling access spec: 5
+<2019-10-22 11:53:50,315> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:50,315> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:50,420> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:50,622> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:50,625> sending 2 opspecs
+<2019-10-22 11:53:50,651> Enabling access spec: 5
+<2019-10-22 11:53:51,110> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '03e144f80000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:51,112> sending 2 opspecs
+<2019-10-22 11:53:51,169> Enabling access spec: 5
+<2019-10-22 11:53:51,612> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:51,814> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:52,015> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:52,086> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 6, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': 'ea4100000000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:52,205> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:52,216> sending 2 opspecs
+<2019-10-22 11:53:52,242> Enabling access spec: 5
+<2019-10-22 11:53:52,603> BAD OpSpecResult={'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:52,604> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 1, 'Result': 5, 'OpSpecID': 1}}[1;0m
+<2019-10-22 11:53:52,717> sending 2 opspecs
+<2019-10-22 11:53:52,743> Enabling access spec: 5
+<2019-10-22 11:53:52,906> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '020944fe0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:52,907> sending 2 opspecs
+<2019-10-22 11:53:52,952> Enabling access spec: 5
+<2019-10-22 11:53:53,107> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 5, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '03cd45020000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:53,109> sending 2 opspecs
+<2019-10-22 11:53:53,133> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:53,165> Enabling access spec: 5
+<2019-10-22 11:53:53,586> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 6, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '047845080000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:53,587> sending 2 opspecs
+<2019-10-22 11:53:53,608> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:53,640> Enabling access spec: 5
+<2019-10-22 11:53:53,965> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 7, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '050345100000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:53,967> sending 2 opspecs
+<2019-10-22 11:53:54,007> Enabling access spec: 5
+<2019-10-22 11:53:54,467> [1;31mWISENT TIMEOUT[1;0m wisp not seen
+<2019-10-22 11:53:54,536> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 8, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '06d5451a0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:54,538> sending 2 opspecs
+<2019-10-22 11:53:54,582> Enabling access spec: 5
+<2019-10-22 11:53:54,643> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:55,037> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 10, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '085b45260000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:55,038> sending 2 opspecs
+<2019-10-22 11:53:55,061> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:55,122> Enabling access spec: 5
+<2019-10-22 11:53:55,144> 0242: OpSpecResult = [1;32m{}[1;0m
+<2019-10-22 11:53:55,236> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 14, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '0c1045360000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:55,238> sending 2 opspecs
+<2019-10-22 11:53:55,286> Enabling access spec: 5
+<2019-10-22 11:53:55,738> 0242: OpSpecResult = [1;32m{1: {'NumWordsWritten': 4, 'Result': 0, 'OpSpecID': 1}, 2: {'ReadDataWordCount': 3, 'ReadData': '02ec454e0000', 'Result': 0, 'OpSpecID': 2}}[1;0m
+<2019-10-22 11:53:55,739> 0242: stork end of file reached.          --- Stork time elapsed: 32.728 secs
+
+<2019-10-22 11:53:55,741> 0242: Wisp was in state: PROGRAMMING and is going to the next state --- Time elapsed: 37.875 secs
+<2019-10-22 11:53:55,742> 0242: Wisp is now in state: MEMCHECK
+<2019-10-22 11:53:55,816> 0242: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:53:55,817> 0242: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:53:55,818> sending 4 opspecs
+<2019-10-22 11:53:55,926> Enabling access spec: 5
+<2019-10-22 11:53:56,119> 0242: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:53:56,120> 0242: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:53:56,121> sending 4 opspecs
+<2019-10-22 11:53:56,167> Enabling access spec: 5
+<2019-10-22 11:53:56,422> 0242: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:53:56,423> 0242: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:53:56,424> sending 4 opspecs
+<2019-10-22 11:53:56,466> Enabling access spec: 5
+<2019-10-22 11:53:56,725> 0242: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:53:56,725> 0242: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:53:56,727> sending 4 opspecs
+<2019-10-22 11:53:56,777> Enabling access spec: 5
+<2019-10-22 11:53:56,876> 1c312c22c7d934a24b148f860eab0eab ?= 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:53:56,877> 83a883a8946e5a32 ?= 83a883a8946e5a32
+<2019-10-22 11:53:56,878> 0242: memcheck finished
+<2019-10-22 11:53:56,879> 0242: 12 good and 0 bad memblocks
+<2019-10-22 11:53:56,883> 0242: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 39.017 secs
+<2019-10-22 11:53:56,884> 0242: Wisp is now in state: FINISH
+<2019-10-22 11:53:56,890> 0242: WrepWidget [WAITING 0.069, WAIT4SNIFFERS 0.588, PROGRAMMING 5.141, MEMCHECK 37.876, FINISH 39.019]
+<2019-10-22 11:53:56,890> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2019-10-22 11:53:56,891> 0239: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 38.575 secs
+<2019-10-22 11:53:56,892> 0239: Wisp is now in state: STOPSNIFFING
+<2019-10-22 11:53:56,901> sending 2 opspecs
+<2019-10-22 11:53:56,992> Enabling access spec: 8
+<2019-10-22 11:53:57,879> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:57,921> sending 2 opspecs
+<2019-10-22 11:53:58,033> Enabling access spec: 8
+<2019-10-22 11:53:58,755> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:58,927> sending 2 opspecs
+<2019-10-22 11:53:58,968> Enabling access spec: 8
+<2019-10-22 11:53:59,245> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:59,254> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:59,329> sending 2 opspecs
+<2019-10-22 11:53:59,364> Enabling access spec: 8
+<2019-10-22 11:53:59,734> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:53:59,798> sending 2 opspecs
+<2019-10-22 11:53:59,870> Enabling access spec: 8
+<2019-10-22 11:54:00,105> 0239: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 41.789 secs
+<2019-10-22 11:54:00,107> 0239: Wisp is now in state: MEMCHECK
+<2019-10-22 11:54:00,171> 0239: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:00,172> 0239: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:00,173> sending 4 opspecs
+<2019-10-22 11:54:00,285> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 2, 'OpSpecID': 2}
+<2019-10-22 11:54:00,341> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:54:00,455> Enabling access spec: 8
+<2019-10-22 11:54:00,474> 0239: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:00,475> 0239: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:00,476> sending 4 opspecs
+<2019-10-22 11:54:00,524> Enabling access spec: 8
+<2019-10-22 11:54:00,781> 0239: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:00,782> 0239: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:00,783> sending 4 opspecs
+<2019-10-22 11:54:00,811> Enabling access spec: 8
+<2019-10-22 11:54:01,084> 0239: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:01,085> 0239: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:01,086> sending 4 opspecs
+<2019-10-22 11:54:01,115> Enabling access spec: 8
+<2019-10-22 11:54:01,387> 0239: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:01,389> 0239: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:01,390> sending 4 opspecs
+<2019-10-22 11:54:01,419> Enabling access spec: 8
+<2019-10-22 11:54:01,541> 1c312c22c7d934a24b148f860eab0eab ?= 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:01,543> 83a883a8946e5a32 ?= 83a883a8946e5a32
+<2019-10-22 11:54:01,544> 0239: memcheck finished
+<2019-10-22 11:54:01,544> 0239: 12 good and 0 bad memblocks
+<2019-10-22 11:54:01,546> 0239: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 43.230 secs
+<2019-10-22 11:54:01,547> 0239: Wisp is now in state: FINISH
+<2019-10-22 11:54:01,557> 0239: WrepWidget [WAITING 0.077, GOTOSNIF 0.148, SNIFFING 1.302, STOPSNIFFING 38.577, MEMCHECK 41.791, PROGRAMMING, MEMCHECK, FINISH 43.232]
+<2019-10-22 11:54:01,558> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2019-10-22 11:54:01,559> 0241: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 43.376 secs
+<2019-10-22 11:54:01,559> 0241: Wisp is now in state: STOPSNIFFING
+<2019-10-22 11:54:01,590> sending 2 opspecs
+<2019-10-22 11:54:01,648> Enabling access spec: 7
+<2019-10-22 11:54:02,148> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:54:02,192> sending 2 opspecs
+<2019-10-22 11:54:02,218> Enabling access spec: 7
+<2019-10-22 11:54:02,656> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:54:02,756> 0241: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 44.573 secs
+<2019-10-22 11:54:02,757> 0241: Wisp is now in state: MEMCHECK
+<2019-10-22 11:54:02,818> 0241: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:02,819> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:02,820> sending 4 opspecs
+<2019-10-22 11:54:02,932> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 2, 'OpSpecID': 2}
+<2019-10-22 11:54:03,018> Enabling access spec: 7
+<2019-10-22 11:54:03,120> 0241: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:03,121> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:03,122> sending 4 opspecs
+<2019-10-22 11:54:03,147> Enabling access spec: 7
+<2019-10-22 11:54:03,424> 0241: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:03,425> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:03,426> sending 4 opspecs
+<2019-10-22 11:54:03,452> Enabling access spec: 7
+<2019-10-22 11:54:03,727> 0241: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:03,728> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:03,729> sending 4 opspecs
+<2019-10-22 11:54:03,741> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 2}
+<2019-10-22 11:54:03,796> Enabling access spec: 7
+<2019-10-22 11:54:04,041> 0241: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:04,042> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:04,044> sending 4 opspecs
+<2019-10-22 11:54:04,067> Enabling access spec: 7
+<2019-10-22 11:54:04,239> BAD OpSpecResult={'ReadDataWordCount': 0, 'ReadData': '', 'Result': 3, 'OpSpecID': 4}
+<2019-10-22 11:54:04,240> 1c312c22c7d934a24b148f860eab0eab ?= 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:04,241> 0241: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:04,242> sending 2 opspecs
+<2019-10-22 11:54:04,283> Enabling access spec: 7
+<2019-10-22 11:54:04,435> 83a883a8946e5a32 ?= 83a883a8946e5a32
+<2019-10-22 11:54:04,436> 0241: memcheck finished
+<2019-10-22 11:54:04,437> 0241: 12 good and 0 bad memblocks
+<2019-10-22 11:54:04,439> 0241: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 46.256 secs
+<2019-10-22 11:54:04,440> 0241: Wisp is now in state: FINISH
+<2019-10-22 11:54:04,445> 0241: WrepWidget [WAITING 0.078, GOTOSNIF 0.289, SNIFFING 4.819, STOPSNIFFING 43.377, MEMCHECK 44.575, PROGRAMMING, MEMCHECK, FINISH 46.258]
+<2019-10-22 11:54:04,445> 
+
+******************************* Next wisp (sniffer) *******************************
+
+<2019-10-22 11:54:04,446> 0237: Wisp was in state: SNIFFING and is going to the next state --- Time elapsed: 46.403 secs
+<2019-10-22 11:54:04,448> 0237: Wisp is now in state: STOPSNIFFING
+<2019-10-22 11:54:04,454> sending 2 opspecs
+<2019-10-22 11:54:04,518> Enabling access spec: 6
+<2019-10-22 11:54:04,626> 0237: Wisp was in state: STOPSNIFFING and is going to the next state --- Time elapsed: 46.582 secs
+<2019-10-22 11:54:04,627> 0237: Wisp is now in state: MEMCHECK
+<2019-10-22 11:54:04,685> 0237: sending memcheck [80484404], expecting CRCs = 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:04,685> 0237: sending memcheck [406da1cc], expecting CRCs = 83a883a8946e5a32
+<2019-10-22 11:54:04,687> sending 4 opspecs
+<2019-10-22 11:54:04,787> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:54:04,799> BAD OpSpecResult={'NumWordsWritten': 0, 'Result': 5, 'OpSpecID': 1}
+<2019-10-22 11:54:04,837> Enabling access spec: 6
+<2019-10-22 11:54:04,969> 1c312c22c7d934a24b148f860eab0eab ?= 1c312c22c7d934a24b148f860eab0eab
+<2019-10-22 11:54:04,977> 83a883a8946e5a32 ?= 83a883a8946e5a32
+<2019-10-22 11:54:04,978> 0237: memcheck finished
+<2019-10-22 11:54:04,979> 0237: 12 good and 0 bad memblocks
+<2019-10-22 11:54:04,981> 0237: Wisp was in state: MEMCHECK and is going to the next state --- Time elapsed: 46.937 secs
+<2019-10-22 11:54:04,982> 0237: Wisp is now in state: FINISH
+<2019-10-22 11:54:04,986> 0237: WrepWidget [WAITING 0.084, GOTOSNIF 0.436, SNIFFING 1.284, STOPSNIFFING 46.405, MEMCHECK 46.583, PROGRAMMING, MEMCHECK, FINISH 46.938]
+<2019-10-22 11:54:04,987> IOTXTreplace: 0242 0237 0241 0239: Wisp(s) is/are reprogrammed now
+<2019-10-22 11:54:15,527> stopping politely
+<2019-10-22 11:54:15,529> will disconnect when stopped
+<2019-10-22 11:54:15,529> Wisp Control finished: Shutting down, time in seconds : 129.677814007
+<2019-10-22 11:54:15,626> reader finished inventory
+<2019-10-22 11:54:15,626> disconnecting
+<2019-10-22 11:54:15,627> lost connection: Connection was closed cleanly.

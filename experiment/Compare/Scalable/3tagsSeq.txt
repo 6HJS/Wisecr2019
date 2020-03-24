@@ -1,0 +1,41 @@
+AA00: Restarted in bootloaderAA00: Sent session key
+Failed to send data: PowerFailure.
+AA00: Restarted in bootloader
+AA00: Sent session key
+AA00: Sent data
+AA00: Update time: 4.4608928
+
+0237: Restarted in bootloader
+0237: Sent session key
+0237: Sent data
+0237: Update time: 6.710213
+
+0241: Restarted in bootloader
+0241: Sent session key
+0241: Sent data
+0241: Update time: 5.0357364
+
+0242: Restarted in bootloader
+0242: Sent session key
+Failed to send data: PowerFailure.
+0242: Restarted in bootloader
+0242: Sent session key
+Failed to send data: PowerFailure.
+0242: Restarted in bootloader
+0242: Sent session key
+Failed to send data: PowerFailure.
+0242: Restarted in bootloader
+0242: Sent session key
+Failed to send data: PowerFailure.
+0242: Restarted in bootloader
+0242: Sent session key
+Failed to send data: PowerFailure.
+0242: Restarted in bootloader
+0242: Sent session key
+0242: Sent data
+0242: Update time: 4.9826118
+
+
+
+
+

@@ -1,0 +1,12 @@
+[package]
+name = "symbol_gen"
+version = "0.2.0"
+authors = ["Michael Chesser"]
+edition = "2018"
+
+[dependencies]
+structopt = { version = "0.3.2", default-features = false }
+goblin = "0.0.24"
+
+[profile.release]
+panic = "abort"

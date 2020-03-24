@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1570673925 source:c:\users\yang\documents\github\wisp_broadcast\pam_pc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
+1571209968 source:c:\users\yang\documents\github\wisp_broadcast\pam_pc\pam.c
+	"pam.h"
+
+1571043232 c:\users\yang\documents\github\wisp_broadcast\pam_pc\pam.h
+	<math.h>
+	<stdint.h>
+

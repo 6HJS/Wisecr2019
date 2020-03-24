@@ -1,0 +1,33 @@
+AA00: Restarted in bootloaderAA00: Sent session key
+AA00: Sent data
+AA00: Update time: 5.6546319
+
+0241: Restarted in bootloader
+0241: Sent session key
+0241: Sent data
+0241: Update time: 5.9556744
+
+0242: Restarted in bootloader
+0242: Sent session key
+0242: Sent data
+0242: Update time: 4.3727233
+
+
+
+
+
+
+AA00: Restarted in bootloaderAA00: Sent session key
+AA00: Sent data
+AA00: Update time: 5.2021151
+
+0241: Restarted in bootloader
+0241: Sent session key
+0241: Sent data
+0241: Update time: 5.8636818
+
+0242: Restarted in bootloader
+0242: Sent session key
+0242: Sent data
+0242: Update time: 4.7537119
+
